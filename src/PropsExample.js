@@ -1,4 +1,6 @@
 import React from 'react'
+ 	
+ 	//import React from 'react'
 
 class PropsExample extends React.Component{
 	render(){
@@ -13,3 +15,5 @@ class PropsExample extends React.Component{
 	}
 }
 export default PropsExample
+
+
