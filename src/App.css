@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+.nav {
+  background-color: greenyellow;
+  border-style: solid;
+  margin-right: 85%;
+  font-style: italic;
+  text-align: center;
+  justify-content: space-between;
+}
